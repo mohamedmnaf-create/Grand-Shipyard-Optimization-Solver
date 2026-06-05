@@ -850,7 +850,6 @@ The resulting system is suitable for large-scale industrial deployment and provi
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/bd4f7614-c746-441d-86a1-612024be4a4a
 
 ## Run Locally
 
