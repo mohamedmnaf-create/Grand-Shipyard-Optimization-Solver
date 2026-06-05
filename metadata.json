@@ -1,0 +1,6 @@
+{
+  "name": "Grand Shipyard Optimization Solver",
+  "description": "A high-performance optimization solver and interactive 3D visualizer for the Grand Shipyard Puzzle, featuring multi-objective packing, scheduling, and metaheuristic search trees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
